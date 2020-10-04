@@ -4,8 +4,9 @@ Rest server utilizand nodejs
 
 ## Requisitos: ##
 
-Paquetes de node
-´´´
-npm install 
 
+Paquetes de node:
+ ```
+_npm install 
 
+```
